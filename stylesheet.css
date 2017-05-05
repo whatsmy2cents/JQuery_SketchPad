@@ -1,0 +1,48 @@
+body {
+	background-color: lightgray;
+}
+
+#outer_container {
+	background-color: rgb(37, 85, 163);
+	border-radius: 50px;
+	height: 750px;
+	width: 750px;
+	margin: auto;
+}
+
+#screen {
+	background-color: white;
+	height: 600px;
+	width: 600px;
+	margin: 10px 75px 0px 75px;
+	position: relative;
+	clear: all;
+	float:right;
+	padding:0px;
+	border: 1px solid black;
+}
+
+.pix {
+	display: block;
+}
+
+table {
+	margin:0;
+	padding:0;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+
+input {
+	border-radius: 50px;
+	margin: 0px 0px 0px 0px;
+	font-weight:bold;
+	color:white;
+	background-color: black;
+}
+#menu {
+
+    margin: auto;
+    padding: 25px 100px 0px 150px;
+    position: relative;
+}
