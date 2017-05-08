@@ -1,5 +1,6 @@
 body {
-	background-color: lightgray;
+	background: lightgray url(wood.jpg) repeat top right;
+
 }
 
 #outer_container {
@@ -8,10 +9,11 @@ body {
 	height: 750px;
 	width: 750px;
 	margin: auto;
+	border: 2px solid black;
 }
 
 #screen {
-	background-color: white;
+	background-color: rgb(255,255,255);
 	height: 600px;
 	width: 600px;
 	margin: 10px 75px 0px 75px;
@@ -43,6 +45,6 @@ input {
 #menu {
 
     margin: auto;
-    padding: 25px 100px 0px 150px;
+    padding: 25px 100px 35px 125px;
     position: relative;
 }
